@@ -1,0 +1,6 @@
+{
+  "name": "Calculator Pro",
+  "description": "All-in-one smart calculator with Standard, Scientific, Currency Converter, Mass Converter, Tip Calculator, and Discount Calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
